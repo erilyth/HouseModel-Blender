@@ -5,7 +5,7 @@ A 2 floored house modelled entirely in blender.
 ![House View 2](/untitled2.png?raw=true "House View 2")
 
 ### Getting started
-* Install blender.
+* Install blender (https://www.blender.org/)
 * Load the blender model and start tinkering with it.
 
 ### Issues
